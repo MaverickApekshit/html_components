@@ -1,2 +1,3 @@
-# html_components
- Some common HTML components
+# HTML Components
+
+Some common HTML components
